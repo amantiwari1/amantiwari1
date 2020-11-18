@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on MedTourEasy
-- 🌱 I’m currently learning DevOps and Data Structure
+🔭 I’m currently working on MedTourEasy
+🌱 I’m currently learning DevOps and Data Structure
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with 
 - 💬 Ask me about ...
-- 📫 How to reach me: amantiwari78632@gmail.com
+📫 How to reach me: amantiwari78632@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
