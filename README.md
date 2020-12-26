@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-🔭 I’m currently working on MedTourEasy
 
 🌱 I’m currently learning DevOps and Data Structure
 
