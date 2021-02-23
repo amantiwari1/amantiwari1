@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-🌱 I’m currently learning DevOps and Data Structure
+🌱 I’m currently learning Full Stack and Data Structure - https://leetcode.com/amantiwari1/
 
 📫 How to reach me: amantiwari78632@gmail.com
 <!--
