@@ -17,7 +17,7 @@
 
 
 
-- 🔭 I’m currently a B.Tech CSE 2nd year student 
+- 🔭 I’m currently a BCA  2nd year student 
 - 🌱 I’m currently learning React , NodeJs,Mongodb.
 - 👯 I’m looking to collaborate on Some Projects
 - 🤔 I’m looking for help with learning new stuff.
