@@ -19,7 +19,7 @@
 - 💬 Ask me about  tech related stuff.
 - 📫 How to reach me: [Twitter ](https://twitter.com/aman_tiwari1) , [LinkedIn ](https://www.linkedin.com/in/aman-tiwari1/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: As i love to buid Something so spend my most of the  ⌚ in front of my laptop.
+- ⚡ Fun fact: As i love to build Something so spend my most of the  ⌚ in front of my laptop.
 
 
 **Languages and Tools:**  
