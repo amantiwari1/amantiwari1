@@ -14,11 +14,6 @@
 <br/>
 <br/>
 
-
-
-
-- 🔭 I’m currently a BCA  final year student 
-- 🌱 I’m currently learning React , NodeJs,Mongodb.
 - 👯 I’m looking to collaborate on Some Projects
 - 🤔 I’m looking for help with learning new stuff.
 - 💬 Ask me about  tech related stuff.
