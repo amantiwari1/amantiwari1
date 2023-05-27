@@ -1,49 +1,6 @@
 ## Hii, I'm Aman 👋
-<div>
-<a href="https://twitter.com/aman_tiwari1">
-  <img align="left" alt="Arnab's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/aman-tiwari1">
-  <img align="left" alt="Arnab's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/amantiwari1">
-  <img align="left" alt="Arnab's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-</div>
+Aman Tiwari is a highly skilled full-stack developer with a strong passion for exploring various web technologies. With nearly 3 years of experience in full-stack development, DevOps, and unit testing, Aman has honed his expertise in a range of technologies. His primary focus lies in ReactJS, NodeJS, GoLang, and VueJS, where he has demonstrated exceptional proficiency.
 
-<br/>
-<br/>
-
-- 👯 I’m looking to collaborate on Some Projects
-- 🤔 I’m looking for help with learning new stuff.
-- 💬 Ask me about  tech related stuff.
-- 📫 How to reach me: [Twitter ](https://twitter.com/aman_tiwari1) , [LinkedIn ](https://www.linkedin.com/in/aman-tiwari1/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: As i love to build Something so spend my most of the  ⌚ in front of my laptop.
+Aman possesses hands-on experience in deploying applications on cloud infrastructures such as AWS, GCP, and Azure, always considering scalability as a vital aspect. He leverages cutting-edge tools like Docker, Kubernetes, Jenkins, and GitHub Actions for seamless CI/CD processes. A self-motivated individual, Aman is constantly driven to enhance his knowledge and skills through self-learning, ensuring he stays up-to-date with the latest industry trends and advancements.
 
 
-**Languages and Tools:**  
-
-
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>    
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>    
-
-
-
-<div align="center>
- <a href="https://github.com/amantiwari1"> 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=amantiwari1&show_icons=true&theme=dark&line_height=27" alt="Aman's github stats"/>
-</a>
-
-
-<div align="center">
-
-### Help me by starring some of the repositories!
-
-</div>
